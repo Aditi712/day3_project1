@@ -1,0 +1,15 @@
+.p1 {
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: crimson;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
